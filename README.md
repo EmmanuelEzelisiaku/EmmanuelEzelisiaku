@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @EmmanuelEzelisiaku
+- 👀 I’m interested in Web development
+- 🌱 I’m currently learning Javascritp
+- 💞️ I’m looking to collaborate on My Projects
+- 📫 offixcialballer@gmail.com
