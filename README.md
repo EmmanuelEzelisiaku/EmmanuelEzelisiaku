@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @EmmanuelEzelisiaku
+- i am 16 years old living in abuja nigeria
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Javascritp
+- 🌱 I’m currently learning React.js / node.js
 - 💞️ I’m looking to collaborate on My Projects
 - 📫 offixcialballer@gmail.com
+-
